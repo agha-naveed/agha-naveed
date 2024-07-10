@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<br>👋 Hi, I’m @agha-naveed<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning new Technologies.<br>I live in Skardu, Pk<br>My Skills Include:<br>Html, CSS, JavaScript, Python, Java, C++, wordpress
+<br>👋 Hi, I’m @agha-naveed<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning new Technologies.
 
 
 ## 🌐 Socials:
