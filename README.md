@@ -2,8 +2,8 @@
 
 
 # 💫 About Me:
+<img width="200px" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <br>👋 Hi, I’m @agha-naveed<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning new Technologies.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agha-naveed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@naveed_kazmi31)
