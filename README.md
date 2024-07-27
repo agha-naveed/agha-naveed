@@ -19,5 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=agha-naveed&icon=2&color=6)](https://visitcount.itsvg.in)
 
-@AghaNaveed_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
