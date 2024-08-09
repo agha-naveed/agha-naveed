@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="40px" />, I'm Agha Naveed,<br/> I Develop Things...</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="40px" />, I'm Agha Naveed,<br/> I Develop Things.</h1>
 
 
 # 💫 Intro:
