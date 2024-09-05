@@ -10,7 +10,8 @@
 
 # <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZm1reHN6c3Ryb3gxdm90NnM5OTEwbWs5b3o0am01aGx0NTRhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="35px" /> Technical Proficiency:
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react,nodejs,mysql,python,cpp,java,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react,nodejs,mysql" />
+ <img src="https://skillicons.dev/icons?i=python,cpp,java,wordpress" />
 <img src="https://skillicons.dev/icons?i=ps,ae,github" />
 </div>
 
