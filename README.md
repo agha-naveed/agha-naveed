@@ -9,10 +9,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agha-naveed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@naveed_kazmi31)
 
 # <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZm1reHN6c3Ryb3gxdm90NnM5OTEwbWs5b3o0am01aGx0NTRhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="35px" /> Technical Proficiency:
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react,nodejs,mysql" />
- <img src="https://skillicons.dev/icons?i=python,cpp,java,wordpress" />
-<img src="https://skillicons.dev/icons?i=ps,ae,github" />
+
+
+<div align="center"> 
+ <img src="https://skillicons.dev/icons?i=html" />
+ <img src="https://skillicons.dev/icons?i=css" />
+ <img src="https://skillicons.dev/icons?i=js" />
+ <img src="https://skillicons.dev/icons?i=bootstrap" />
+ <img src="https://skillicons.dev/icons?i=tailwind" />
+ <img src="https://skillicons.dev/icons?i=vite" />
+ <img src="https://skillicons.dev/icons?i=react" />
+ <img src="https://skillicons.dev/icons?i=nodejs" />
+ <img src="https://skillicons.dev/icons?i=mysql" />
+ <img src="https://skillicons.dev/icons?i=python" />
+ <img src="https://skillicons.dev/icons?i=cpp" />
+ <img src="https://skillicons.dev/icons?i=java" />
+ <img src="https://skillicons.dev/icons?i=wordpress" />
+ <img src="https://skillicons.dev/icons?i=ps" />
+ <img src="https://skillicons.dev/icons?i=ae" />
+ <img src="https://skillicons.dev/icons?i=github" />
 </div>
 
 ## 📊 GitHub Insight:
