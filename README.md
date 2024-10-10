@@ -19,7 +19,7 @@
  <img src="https://skillicons.dev/icons?i=tailwind" />
  <img src="https://skillicons.dev/icons?i=vite" />
  <img src="https://skillicons.dev/icons?i=react" />
- <img src="https://skillicons.dev/icons?i=threejs" />
+
  <img src="https://skillicons.dev/icons?i=nodejs" />
  <img src="https://skillicons.dev/icons?i=mysql" />
  <img src="https://skillicons.dev/icons?i=python" />
