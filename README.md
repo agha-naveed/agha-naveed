@@ -17,7 +17,6 @@
  <img src="https://skillicons.dev/icons?i=js" />
  <img src="https://skillicons.dev/icons?i=bootstrap" />
  <img src="https://skillicons.dev/icons?i=tailwind" />
- <img src="https://skillicons.dev/icons?i=vite" />
  <img src="https://skillicons.dev/icons?i=react" />
 
  <img src="https://skillicons.dev/icons?i=nodejs" />
