@@ -29,7 +29,7 @@
  <img src="https://skillicons.dev/icons?i=java" />
  <img src="https://skillicons.dev/icons?i=wordpress" />
  <img src="https://skillicons.dev/icons?i=ps" />
- <img src="https://skillicons.dev/icons?i=ae" />
+ <img src="https://skillicons.dev/icons?i=npm" />
  <img src="https://skillicons.dev/icons?i=github" />
 </div>
 
