@@ -5,7 +5,7 @@
 <img width="120px" align="right" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952kunpsgwtqx5vk8lexjlsm15q8tnd5sc4h7ycomqn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <br>👋 Hi, I’m @agha-naveed<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning new Technologies.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agha-naveed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@naveed_kazmi31)
 
 # <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZm1reHN6c3Ryb3gxdm90NnM5OTEwbWs5b3o0am01aGx0NTRhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="35px" /> Tech Stack:
