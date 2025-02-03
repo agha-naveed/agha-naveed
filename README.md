@@ -25,7 +25,6 @@
  <img src="https://skillicons.dev/icons?i=expressjs" />
  <img src="https://skillicons.dev/icons?i=mongodb" />
  <img src="https://skillicons.dev/icons?i=mysql" />
- <img src="https://skillicons.dev/icons?i=cloudinary" />
  
  <img src="https://skillicons.dev/icons?i=python" />
  <img src="https://skillicons.dev/icons?i=cpp" />
