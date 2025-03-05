@@ -11,26 +11,38 @@
 # <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZm1reHN6c3Ryb3gxdm90NnM5OTEwbWs5b3o0am01aGx0NTRhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="35px" /> Tech Stack:
 
 
-<div align="center"> 
+<div> 
+ 
+ ## Frontend Technologies:
  <img src="https://skillicons.dev/icons?i=html" />
  <img src="https://skillicons.dev/icons?i=css" />
  <img src="https://skillicons.dev/icons?i=js" />
  <img src="https://skillicons.dev/icons?i=ts" />
+
  <img src="https://skillicons.dev/icons?i=bootstrap" />
  <img src="https://skillicons.dev/icons?i=tailwind" />
  <img src="https://skillicons.dev/icons?i=react" />
  <img src="https://skillicons.dev/icons?i=nextjs" />
 
+ ## Backend Languages:
  <img src="https://skillicons.dev/icons?i=nodejs" />
  <img src="https://skillicons.dev/icons?i=expressjs" />
+
+ ## Databases:
  <img src="https://skillicons.dev/icons?i=mongodb" />
  <img src="https://skillicons.dev/icons?i=mysql" />
  
+ ## Programming Languages:
  <img src="https://skillicons.dev/icons?i=python" />
  <img src="https://skillicons.dev/icons?i=cpp" />
  <img src="https://skillicons.dev/icons?i=java" />
+
+ ## Designing:
  <img src="https://skillicons.dev/icons?i=wordpress" />
  <img src="https://skillicons.dev/icons?i=ps" />
+
+
+ ## Tools:
  <img src="https://skillicons.dev/icons?i=npm" />
  <img src="https://skillicons.dev/icons?i=github" />
 </div>
