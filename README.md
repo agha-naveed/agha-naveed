@@ -45,6 +45,7 @@
  ## Tools:
  <img src="https://skillicons.dev/icons?i=npm" />
  <img src="https://skillicons.dev/icons?i=github" />
+ <img src="https://skillicons.dev/icons?i=git" />
 </div>
 
 ## 📊 GitHub Insight:
