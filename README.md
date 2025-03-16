@@ -23,6 +23,7 @@
  <img src="https://skillicons.dev/icons?i=tailwind" />
  <img src="https://skillicons.dev/icons?i=react" />
  <img src="https://skillicons.dev/icons?i=nextjs" />
+ <img src="https://skillicons.dev/icons?i=electron" />
 
  ## Backend Languages:
  <img src="https://skillicons.dev/icons?i=nodejs" />
