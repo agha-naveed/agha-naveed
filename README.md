@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@agha--naveed-181717?style=flat&logo=github)](https://github.com/agha-naveed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
-[![Twitter](https://img.shields.io/badge/Twitter-@agha__naveed-1DA1F2?style=flat&logo=twitter)](https://twitter.com/naveed_kazmi31)
+[![X](https://img.shields.io/badge/X-Agha%20Naveed-1DA1F2?style=flat&logo=twitter)](https://x.com/naveed_kazmi31)
 
 I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **Web Development** and **Artificial Intelligence**. I love building scalable, user-friendly web applications and exploring the fascinating world of AI. Let's connect and create something amazing together! 🚀
 
