@@ -1,55 +1,65 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="50px" />, I'm Agha Naveed,<br/> I Develop Things...</h1>
+<h1>
+ Hi
+ <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="50px" />
+ , I'm Agha Naveed
+</h1>
 
+<br />
 
-# 💫 Intro:
-<img width="122px" align="right" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952kunpsgwtqx5vk8lexjlsm15q8tnd5sc4h7ycomqn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
-<br>👋 Hi, I’m @agha-naveed - MERN-Stack Developer | Next.Js Developer <br>👀 I’m interested in Web Development & AI/ML<br>🌱 I’m currently learning new Technologies.
+[![GitHub](https://img.shields.io/badge/GitHub-@agha--naveed-181717?style=flat&logo=github)](https://github.com/agha-naveed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
+[![Twitter](https://img.shields.io/badge/Twitter-@agha__naveed-1DA1F2?style=flat&logo=twitter)](https://twitter.com/naveed_kazmi31)
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agha-naveed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@naveed_kazmi31)
+I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **Web Development** and **Artificial Intelligence**. I love building scalable, user-friendly web applications and exploring the fascinating world of AI. Let's connect and create something amazing together! 🚀
 
-# <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZm1reHN6c3Ryb3gxdm90NnM5OTEwbWs5b3o0am01aGx0NTRhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="35px" /> Tech Stack:
-
-
-<div> 
- 
- ## Frontend Technologies:
- <img src="https://skillicons.dev/icons?i=html" />
- <img src="https://skillicons.dev/icons?i=css" />
- <img src="https://skillicons.dev/icons?i=js" />
- <img src="https://skillicons.dev/icons?i=ts" />
-
- <img src="https://skillicons.dev/icons?i=bootstrap" />
- <img src="https://skillicons.dev/icons?i=tailwind" />
- <img src="https://skillicons.dev/icons?i=react" />
- <img src="https://skillicons.dev/icons?i=nextjs" />
-
- ## Backend Languages:
- <img src="https://skillicons.dev/icons?i=nodejs" />
- <img src="https://skillicons.dev/icons?i=expressjs" />
-
- ## Databases:
- <img src="https://skillicons.dev/icons?i=mongodb" />
- <img src="https://skillicons.dev/icons?i=mysql" />
- 
- ## Programming Languages:
- <img src="https://skillicons.dev/icons?i=python" />
- <img src="https://skillicons.dev/icons?i=cpp" />
- <img src="https://skillicons.dev/icons?i=java" />
-
- ## Designing:
- <img src="https://skillicons.dev/icons?i=wordpress" />
- <img src="https://skillicons.dev/icons?i=ps" />
-
-
- ## Tools:
- <img src="https://skillicons.dev/icons?i=npm" />
- <img src="https://skillicons.dev/icons?i=github" />
- <img src="https://skillicons.dev/icons?i=git" />
-</div>
-
-## 📊 GitHub Insight:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=agha-naveed&icon=2&color=6)](https://visitcount.itsvg.in)
+
+## 🛠️ Tech Stacks
+
+### **Web Development**
+- **Frontend**: `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Tailwind CSS` `React.js` `Next.js`
+- **Backend**: `Express.js` `Node.js`
+- **Databases**: `MongoDB` `MySQL`
+
+### **Programming**
+- `C++` `Java` `Python`
+
+### **Designing**
+- `WordPress` `Photoshop`
+
+### **Artificial Intelligence**
+- `GPT/Gemini API` `Ollama` and more...
+
+### **Tools**
+- `npm` `Git/GitHub`
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of my notable projects:
+
+1. **[Lenmi Store Online Store](https://lenmi-store.vercel.app)** - A brief description of the project.
+2. **[7up Site Redesign](https://7up-site-redesign.vercel.app)** - A brief description of the project.
+---
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- **GitHub**: [@agha-naveed](https://github.com/agha-naveed)
+- **Email**: [naveedabs31@gmail.com](mailto:naveedabs31@gmail.com)
+- **Portfolio**: [Agha Naveed Portfolio](https://agha-naveed.vercel.app)
+
+---
+
+## 💡 Fun Fact
+
+When I'm not coding, you can find me exploring the latest AI trends or tinkering with new tech gadgets. 🛠️
+
+---
+
+⭐️ From [@agha-naveed](https://github.com/agha-naveed)
