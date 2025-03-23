@@ -4,8 +4,6 @@
  , I'm Agha Naveed
 </h1>
 
-<br />
-
 [![GitHub](https://img.shields.io/badge/GitHub-@agha--naveed-181717?style=flat&logo=github)](https://github.com/agha-naveed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
 [![Twitter](https://img.shields.io/badge/Twitter-@agha__naveed-1DA1F2?style=flat&logo=twitter)](https://twitter.com/naveed_kazmi31)
@@ -39,8 +37,8 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 
 Here are some of my notable projects:
 
-1. **[Lenmi Store Online Store](https://lenmi-store.vercel.app)** - A brief description of the project.
-2. **[7up Site Redesign](https://7up-site-redesign.vercel.app)** - A brief description of the project.
+1. **[Lenmi Store Online Store](https://lenmi-store.vercel.app)**
+2. **[7up Site Redesign](https://7up-site-redesign.vercel.app)**
 ---
 
 ## 📈 GitHub Stats
