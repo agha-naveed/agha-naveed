@@ -12,23 +12,23 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 
 ---
 
-## 🛠️ Tech Stacks
+## 🚀 Skills & Expertise
 
-### **Web Development**
+### **🌐Web Development**
 - **Frontend**: `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Tailwind CSS` `React.js` `Next.js`
 - **Backend**: `Express.js` `Node.js`
 - **Databases**: `MongoDB` `MySQL`
 
-### **Programming**
+### **💻 Programming**
 - `C++` `Java` `Python`
 
-### **Designing**
+### **🎨Designing**
 - `WordPress` `Photoshop`
 
-### **Artificial Intelligence**
+### **🤖Artificial Intelligence**
 - `GPT/Gemini API` `Ollama` and more...
 
-### **Tools**
+### **🔧Tools**
 - `npm` `Git/GitHub`
 
 ---
