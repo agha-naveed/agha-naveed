@@ -1,8 +1,8 @@
 <h1>
  Hi
- <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="50px" />
- , I'm Agha Naveed
+ <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="48px" />, I'm Agha Naveed
 </h1>
+<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-@agha--naveed-181717?style=flat&logo=github)](https://github.com/agha-naveed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
