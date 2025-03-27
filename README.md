@@ -15,17 +15,19 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 ## 🚀 Skills & Expertise
 
 ### **🌐 Web Development**
-- **Frontend**: `HTML` `CSS` `JavaScript` `TypeScript`
+- **🎨 Frontend**:
+  - **Languages**: `HTML` `CSS` `JavaScript` `TypeScript`
   - **Styling**: `Bootstrap` `Tailwind CSS`
   - **Frameworks**: `React.js` `Next.js`
-- **Backend**: `Express.js` `Node.js`
-- **Databases**: `MongoDB` `MySQL` `Cloudinary`
+- **⚙️ Backend**: `Express.js` `Node.js`
+- **🗄️ Databases**: `MongoDB` `MySQL` `Cloudinary`
 
 ### **💻 Programming**
-- **`C++`**
-- **`Java`**
-- **`🐍 Python`**
-   - as
+- **🖥️ C++**
+- **☕ Java**
+  - `Swing`
+- **🐍 Python**
+  - `Turtle` `LangChain` `Speech-to-Text (STT)` `Text-to-Speech (TTS)` and much more...
 
 ### **🎨 Designing**
 - `WordPress` `Photoshop`
