@@ -25,10 +25,8 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 ### **💻 Programming**
 - **🖥️ C++**
 - **☕ Java**
-  - `Swing`
 - **🐍 Python**
-  - `Turtle` `LangChain` `Speech-to-Text (STT)` `Text-to-Speech (TTS)` and much more...
-
+- 
 ### **🎨 Designing**
 - `WordPress` `Photoshop`
 
