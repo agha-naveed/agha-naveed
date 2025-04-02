@@ -61,7 +61,7 @@ Here are some of my notable projects:
 
 ## 💡 Fun Fact
 
-When I'm not coding, you can find me exploring the latest AI trends or tinkering with new tech gadgets. 🛠️
+When I'm not coding, you can find me exploring the latest new tech gadgets. 🛠️
 
 ---
 
