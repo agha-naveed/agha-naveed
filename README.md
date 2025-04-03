@@ -42,7 +42,7 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 
 Here are some of my notable projects:
 
-1. **[Lenmi Store Online Store](https://lenmi-store.vercel.app)**
+1. **[Lenmi Store Online Shopping Platform](https://lenmi-store.vercel.app)**
 2. **[7up Site Redesign](https://7up-site-redesign.vercel.app)**
 ---
 
