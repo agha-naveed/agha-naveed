@@ -31,7 +31,13 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 - `WordPress` `Photoshop`
 
 ### **🤖 Artificial Intelligence**
-- `GPT/Gemini API` `Ollama` and more...
+- **Foundation**:
+   - `NumPy` `Linear Algebra`
+- **Speech Recognition & Synthesis:**
+   - `Speech-to-Text (STT)` and `Text-to-Speech (TTS)` in Py & JS.
+
+- **Check out my AI projects:**
+   - [AI Chatbot](https://lenmi-store.vercel.app)
 
 ### **🔧 Tools**
 - `npm` `Git/GitHub`
