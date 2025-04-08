@@ -23,9 +23,9 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 - **🗄️ Databases**: `MongoDB` `MySQL` `Cloudinary`
 
 ### **💻 Programming**
-- **🖥️ C++**
-- **☕ Java**
-- **🐍 Python**
+- **🖥️ `C++`**
+- **☕ `Java`**
+- **🐍 `Python`**
 
 ### **🎨 Designing**
 - `WordPress` `Photoshop`
