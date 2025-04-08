@@ -37,7 +37,7 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
    - `Speech-to-Text (STT)` and `Text-to-Speech (TTS)` in Py & JS.
 
 - **Check out my AI projects:**
-   - [AI Chatbot](https://lenmi-store.vercel.app)
+   - [`AI Chatbot`](https://agha-ai.vercel.app)
 
 ### **🔧 Tools**
 - `npm` `Git/GitHub`
