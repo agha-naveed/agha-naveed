@@ -31,10 +31,10 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
 - `WordPress` `Photoshop`
 
 ### **🤖 Artificial Intelligence**
-- **Foundation**:
-   - `NumPy` `Linear Algebra`
+- **Frameworks & Libraries:**
+   - `NumPy` `Tensorflow`
 - **Speech Recognition & Synthesis:**
-   - `Speech-to-Text (STT)` and `Text-to-Speech (TTS)` in Py & JS.
+   - `Speech-to-Text (STT)` and `Text-to-Speech (TTS)`
 
 - **Check out my AI projects:**
    - [`AI Chatbot`](https://agha-ai.vercel.app)
