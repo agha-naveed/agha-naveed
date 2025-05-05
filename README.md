@@ -61,7 +61,7 @@ Here are some of my notable projects:
 
 - **GitHub**: [@agha-naveed](https://github.com/agha-naveed)
 - **Email**: [naveedabs31@gmail.com](mailto:naveedabs31@gmail.com)
-- **Portfolio**: [Agha Naveed Portfolio](https://agha-naveed.vercel.app)
+- **Portfolio**: [Agha Naveed Portfolio](https://aghanaveed.vercel.app)
 
 ---
 
