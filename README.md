@@ -19,7 +19,7 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
   - **Languages**: `HTML` `CSS` `JavaScript` `TypeScript`
   - **Styling**: `Bootstrap` `Tailwind CSS`
   - **Frameworks**: `React.js` `Next.js`
-- **⚙️ Backend**: `Express.js` `Node.js` `Flask`
+- **⚙️ Backend**: `Express.js` `Node.js` `FastAPI` `Flask`
 - **🗄️ Databases**: `MongoDB` `MySQL` `Cloudinary`
 
 ### **💻 Programming**
