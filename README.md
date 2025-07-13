@@ -24,6 +24,9 @@ I'm a passionate **Next.js and MERN Stack Developer** with a keen interest in **
   - **Python**: `FastAPI` `Flask`
 - **🗄️ Databases**: `MongoDB` `MySQL` `Cloudinary` `SQLite`
 
+### **🖥️ Desktop Application**
+- **Electron**
+  
 ### **💻 Programming**
 - **🖥️ `C++`**
 - **☕ `Java`**
