@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
 [![X](https://img.shields.io/badge/X-Agha%20Naveed-1DA1F2?style=flat&logo=twitter)](https://x.com/naveed_kazmi31)
 
-I'm a Software Engineer and a passionate **Next.js and MERN Stack Developer** with a keen interest in **Web Development** and **Artificial Intelligence**. I love building scalable, user-friendly web applications and exploring the fascinating world of AI. Let's connect and create something amazing together! 🚀
+I'm a **Software Engineer** and a passionate **Next.js and MERN Stack Developer** with a keen interest in **Web Development** and **Artificial Intelligence**. I love building scalable, user-friendly web applications and exploring the fascinating world of AI. Let's connect and create something amazing together! 🚀
 
 ---
 
