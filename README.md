@@ -39,7 +39,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 - `VS Code` `Linux`
 
 ### 🧠 Artificial Intelligence
-- **Libraries**: `NumPy` `PyTorch`
+- **Libraries**: `NumPy` `Pandas` `PyTorch`
 - **APIs**: `OpenAI` `HuggingFace`
 - **Speech**: `STT` / `TTS`
 
