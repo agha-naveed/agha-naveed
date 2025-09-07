@@ -1,61 +1,60 @@
-<h1>
- Hi
- <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="48px" />, I'm Agha Naveed
+<h1 align="center">
+  Hi there 
+  <img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="40px" />, I'm Agha Naveed
 </h1>
-<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-@agha--naveed-181717?style=flat&logo=github)](https://github.com/agha-naveed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Naveed%20Abbas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agha-naveed/)
-[![X](https://img.shields.io/badge/X-Agha%20Naveed-1DA1F2?style=flat&logo=twitter)](https://x.com/naveed_kazmi31)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7CE68&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%2F+Next.js+Specialist;AI+Enthusiast+%F0%9F%A4%96;Software+Engineer+%F0%9F%A4%96" />
+</p>
 
-I'm a **Software Engineer** and a passionate **Next.js and MERN Stack Developer** with a keen interest in **Web Development** and **Artificial Intelligence**. I love building scalable, user-friendly web applications and exploring the fascinating world of AI. Let's connect and create something amazing together! 🚀
-
----
-
-## 🚀 Skills & Expertise
-
-### **🌐 Web Development**
-- **🎨 Frontend**:
-  - **Languages**: `HTML` `CSS` `JavaScript` `TypeScript`
-  - **Styling**: `Bootstrap` `Tailwind CSS`
-  - **Frameworks**: `React.js` `Next.js`
-- **⚙️ Backend**:
-  - **JavaScript**: `Express.js` `Node.js`
-  - **Python**: `FastAPI` `Flask`
-- **🗄️ Databases**: `MongoDB` `MySQL` `Cloudinary` `SQLite`
-
-### **🖥️ Desktop Application**
-- **Electron**
-  
-### **💻 Programming**
-- **🖥️ `C++`**
-- **☕ `Java`**
-- **🐍 `Python`**
-
-### **🎨 Designing**
-- `WordPress` `Photoshop`
-
-### **🤖 Artificial Intelligence**
-- **Frameworks & Libraries:**
-   - `NumPy` `PyTorch`
-- **Speech Recognition & Synthesis:**
-   - `Speech-to-Text (STT)` and `Text-to-Speech (TTS)`
-
-- **Check out my AI projects:**
-   - [`AI Chatbot`](https://agha-ai.vercel.app)
-
-### **🔧 Tools**
-- `npm` `Git/GitHub`
+<p align="center">
+  <a href="https://github.com/agha-naveed"><img src="https://img.shields.io/badge/GitHub-agha--naveed-000?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/agha-naveed/"><img src="https://img.shields.io/badge/LinkedIn-Agha%20Naveed-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://x.com/naveed_kazmi31"><img src="https://img.shields.io/badge/X-@naveed_kazmi31-1DA1F2?style=for-the-badge&logo=x"></a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 👨‍💻 About Me
 
-Here are some of my notable projects:
+I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** with a strong interest in **Web Development** and **Artificial Intelligence**. I enjoy building scalable and user-friendly applications — and experimenting with modern technologies. Let's build something amazing! 🚀
 
-1. **[Lenmi Store Online Shopping Platform](https://lenmi-store.vercel.app)**
-2. **[7up Site Redesign](https://7up-site-redesign.vercel.app)**
 ---
+
+## 🚀 Skills & Tech Stack
+
+### 🌐 Web Development
+- **Frontend**: `HTML` `CSS` `JavaScript` `TypeScript`
+- **Styling**: `Tailwind CSS` `Bootstrap`
+- **Frameworks**: `React.js` `Next.js`
+
+### ⚙️ Backend
+- **JavaScript**: `Node.js` `Express.js`
+- **Python**: `FastAPI` `Flask`
+- **Databases**: `MongoDB` `MySQL` `SQLite` `Cloudinary`
+
+### 🐳 Docker & DevOps
+- `Docker` `Docker Compose`
+- `Git` `GitHub` `Postman`
+- `VS Code` `Linux`
+
+### 🧠 Artificial Intelligence
+- **Libraries**: `NumPy` `PyTorch`
+- **APIs**: `OpenAI` `HuggingFace`
+- **Speech**: `STT` / `TTS`
+
+> 🧠 Check out: [`AI Chatbot`](https://agha-ai.vercel.app)
+
+### 💻 Desktop Development
+- `Electron.js` — cross-platform desktop apps
+
+### 💡 Other Tools & Languages
+- `Python` `Java` `C++`
+- `Photoshop` `WordPress`
+- `npm`
+
+---
+
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=compact&theme=radical)
@@ -76,4 +75,4 @@ When I'm not coding, you can find me exploring the latest new tech gadgets. 🛠
 
 ---
 
-⭐️ From [@agha-naveed](https://github.com/agha-naveed)
+<p align="center"> Built with ❤️ by <a href="https://github.com/agha-naveed">Agha Naveed</a> </p>
