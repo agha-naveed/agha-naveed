@@ -36,7 +36,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 ### 🐳 Docker & DevOps
 - `Docker` `Docker Compose`
 - `Git` `GitHub` `Postman`
-- `VS Code` `Linux`
+- `Linux`
 
 ### 🧠 Artificial Intelligence
 - **Libraries**: `NumPy` `Pandas` `PyTorch`
@@ -51,7 +51,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 ### 💡 Other Tools & Languages
 - `Python` `Java` `C++`
 - `Photoshop` `WordPress`
-- `npm`
+- `npm` `VS Code`
 
 ---
 
