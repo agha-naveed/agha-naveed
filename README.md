@@ -23,8 +23,8 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 
 ## 🚀 Skills & Tech Stack
 
-### 🌐 Web Development
-- **Frontend**: `HTML` `CSS` `JavaScript` `TypeScript`
+### 🌐 Frontend
+- **Languages**: `HTML` `CSS` `JavaScript` `TypeScript`
 - **Styling**: `Tailwind CSS` `Bootstrap`
 - **Frameworks**: `React.js` `Next.js`
 
