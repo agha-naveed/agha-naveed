@@ -31,7 +31,10 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 ### ⚙️ Backend
 - **JavaScript**: `Node.js` `Express.js`
 - **Python**: `FastAPI` `Flask`
-- **Databases**: `MongoDB` `MySQL` `SQLite` `Cloudinary`
+
+### 🗄️ Databases
+- **SQL**: `MySQL`, `SQLite`
+- **NoSQL & Storage**: `MongoDB`, `Cloudinary`
 
 ### 🐳 Docker & DevOps
 - `Docker` `Docker Compose`
