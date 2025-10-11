@@ -40,7 +40,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 
 ### 🧠 Artificial Intelligence
 - **Libraries**: `NumPy` `Pandas` `PyTorch`
-- **APIs**: `OpenAI` `HuggingFace`
+- **APIs**: `OpenAI`
 - **Speech**: `STT` / `TTS`
 
 > 🧠 Check out: [`AI Chatbot`](https://agha-ai.vercel.app)
