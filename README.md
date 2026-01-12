@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** with a strong interest in **Web Development** and **Artificial Intelligence**. I enjoy building scalable and user-friendly applications — and experimenting with modern technologies. Let's build something amazing! 🚀
+I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** with a strong interest in **Web Development** and **Artificial Intelligence**. I enjoy building scalable and user-friendly applications and experimenting with modern technologies. Let's build something amazing! 🚀
 
 ---
 
@@ -39,14 +39,11 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 ### 🐳 Docker & DevOps
 - `Docker` `Docker Compose`
 - `Git` `GitHub` `Postman`
-- `Linux`
 
 ### 🧠 Artificial Intelligence
-- **Libraries**: `NumPy` `Pandas` `PyTorch`
+- **Libraries**: `NumPy` `Pandas` 
 - **APIs**: `OpenAI`
 - **Speech**: `STT` / `TTS`
-
-> 🧠 Check out: [`AI Chatbot`](https://agha-ai.vercel.app)
 
 ### 💻 Desktop Development
 - `Electron.js` — cross-platform desktop apps
