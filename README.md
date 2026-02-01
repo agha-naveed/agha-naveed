@@ -31,6 +31,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 ### ⚙️ Backend
 - **JavaScript**: `Node.js` `Express.js`
 - **Python**: `FastAPI` `Flask`
+- **ORM**: `Prisma ORM`
 
 ### 🗄️ Databases
 - **SQL**: `PostgreSQL`, `MySQL`, `SQLite`
