@@ -35,7 +35,7 @@ I'm a **Software Engineer** and passionate **Next.js / MERN Stack Developer** wi
 
 ### 🗄️ Databases
 - **SQL**: `PostgreSQL`, `MySQL`, `SQLite`
-- **NoSQL & Storage**: `MongoDB`, `Cloudinary`
+- **NoSQL & Storage**: `MongoDB`, `Redis`, `Cloudinary`
 
 ### 🐳 Docker & DevOps
 - `Docker` `Docker Compose`
