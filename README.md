@@ -81,15 +81,17 @@
 ---
 
 ### 💻 Other Skills
-- Python 🐍 | Java ☕ | C++ ⚡  
-- Electron.js (Desktop Apps)  
-- Photoshop 🎨 | WordPress  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=compact&theme=radical" />
 </p>
 
