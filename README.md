@@ -59,7 +59,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=316192" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=sqlite&logoColor=4479A1" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4479A1" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
   <img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
