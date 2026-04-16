@@ -65,6 +65,14 @@
   <img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
 </p>
 
+### ✦ Mobile App Development
+<p>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+  <!-- <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" /> -->
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+
 ### ✦ AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Supervised_Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6F00" />
@@ -77,12 +85,21 @@
 ### ✦ Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron&logoColor=47848F" />
   <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
 </p>
+
+---
+
+## 🚀 Featured Engineering
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🧠 **[Vextor AI](https://github.com/agha-naveed)** | AI-assisted IDE with local inference & multi-language support. **Built 100% from scratch**. | `React` `Electron` `Rust` `Go` |
+| 🏔️ **[Smart Tourist Safety](https://github.com/agha-naveed)** | Offline rescue & tracking system for Gilgit-Baltistan. | `Java` `FlaskAPI` |
+| 🌐 **[EchoUp](https://github.com/agha-naveed)** | Scalable social media platform featuring seamless AI integrations and resilient data architectures. | `Next.js` `PostgreSQL` `Drizzle ORM` `Redis` `Cloudinary`|
 
 ---
 
