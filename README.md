@@ -38,7 +38,7 @@
 ### ✦ Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=007ACC" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
