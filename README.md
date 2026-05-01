@@ -72,13 +72,14 @@
   <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-### ✦ AI & Machine Learning
+### ✦ AI/ML & CV
 <p>
   <img src="https://img.shields.io/badge/Supervised_Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/Unsupervised-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN_Computer_Vision-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  
 </p>
 
 ### ✦ Languages & Tools
