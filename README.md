@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Agha%20Naveed&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
-<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Building+Scalable+Web+Apps;Next.js+%26+MERN+Stack+Expert;Exploring+Deep+Learning;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+Visitors!%22);Building+Scalable+Web+Apps;Next.js+%26+MERN+Stack+Expert;Exploring+Deep+Learning;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/agha-naveed">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
