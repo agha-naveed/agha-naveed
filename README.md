@@ -52,7 +52,7 @@ philosophy:
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,react,python,cpp,electron,git,postman,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,python,cpp,electron,git,postman,vercel,supabase" />
 </p>
 
 <p align="center">
