@@ -1,127 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Agha%20Naveed&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Agha%20Naveed&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20•%20AI%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=55" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%24+whoami;Agha+Naveed;Building+AI-powered+products;Scaling+modern+web+applications;Next.js+•+TypeScript+•+Python;Exploring+LLMs+and+Deep+Learning+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+Visitors!%22);Building+Scalable+Web+Apps;Next.js+%26+MERN+Stack+Expert;Exploring+Deep+Learning;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
-
-<br>
+<br/>
 
 <a href="https://github.com/agha-naveed">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/agha-naveed/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
+
 <a href="https://x.com/naveed_kazmi31">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF" alt="X" />
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF"/>
 </a>
+
 <a href="https://aghanaveed.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+</a>
+
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Agha Naveed
+role: Full-Stack Engineer
+
+specializations:
+  - Scalable Web Applications
+  - Artificial Intelligence
+  - Developer Tools
+
+currently_learning:
+  - Deep Learning
+  - LLM Systems
+  - AI Agents
+
+philosophy:
+  Build → Learn → Improve → Repeat
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,react,python,cpp,electron,linux,git,postman,vercel,supabase,go,rust" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logoColor=C53635" />
+
+<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5" />
+
+</p>
+
+---
+
+# 🚀 Featured Engineering
+
+| Project          | Description                                                                                                | Stack                                                     |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 🧠 **Vextor AI** | AI-assisted IDE with local inference, intelligent tooling, and multi-language support. Built from scratch. | `React` `Electron` `Rust` `Go`                            |
+| 🌐 **EchoUp**    | Scalable social media platform with AI integrations and resilient backend architecture.                    | `Next.js` `PostgreSQL` `Drizzle ORM` `Redis` `Cloudinary` |
+
+---
+
+# 📊 Languages Used
+
+<p align="center">
+  <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=donut&theme=tokyonight&hide_border=true&langs_count=20" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agha-naveed&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 📡 Connect
+
+<div align="center">
+
+<a href="mailto:naveedabs31@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+<a href="https://aghanaveed.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+</a>
+
+<a href="https://github.com/agha-naveed">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 </div>
 
 <br>
 
-## 💠 `SYS_INFO: About Me`
-
-> **Status:** Passionate Software Engineer specializing in the **MERN Stack** and **Next.js**. 
-> **Current Objective:** Deep diving into **Artificial Intelligence & Machine Learning**.
-> **Core Loop:** Build scalable applications ➔ Learn modern technologies ➔ Push limits ➔ Repeat.
-
----
-
-## 💻 `TECH_CORE: Arsenal`
-
-### ✦ Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=007ACC" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-</p>
-
-### ✦ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=flat-square&logo=drizzle&logoColor=C53635" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-</p>
-
-### ✦ Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=316192" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4479A1" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
-</p>
-
-### ✦ Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-  <!-- <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" /> -->
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-</p>
-
-### ✦ AI/ML & CV
-<p>
-  <img src="https://img.shields.io/badge/Supervised_Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Unsupervised-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/CNN_Computer_Vision-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-  
-</p>
-
-### ✦ DevOps & Cloud:
-<p>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-### ✦ Tools & Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron&logoColor=47848F" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
-</p>
-
----
-
-## 🚀 Featured Engineering
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🧠 **[Vextor AI](https://github.com/agha-naveed)** | AI-assisted IDE with local inference & multi-language support. **Built 100% from scratch**. | `React` `Electron` `Rust` `Go` |
-| 🌐 **[EchoUp](https://github.com/agha-naveed)** | Scalable social media platform featuring seamless AI integrations and resilient data architectures. | `Next.js` `PostgreSQL` `Drizzle ORM` `Redis` `Cloudinary`|
-
----
-
-## Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=compact)
-
----
-
-## 📡 `PING: Establish Connection`
+<div>
 
 ```json
 {
-  "contact": {
-    "email": "naveedabs31@gmail.com",
-    "portfolio": "[https://aghanaveed.vercel.app](https://aghanaveed.vercel.app)",
-    "github": "[https://github.com/agha-naveed](https://github.com/agha-naveed)"
-  },
-  "status": "Ready for collaborations & new opportunities!"
+  "status": "Open to collaborations",
+  "interests": ["AI", "Full-Stack Engineering", "Developer Tools"],
+  "location": "Pakistan"
 }
+```
+
+</div>
