@@ -52,14 +52,14 @@ philosophy:
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,react,python,cpp,electron,linux,git,postman,vercel,supabase,go,rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,react,python,cpp,electron,git,postman,vercel,supabase" />
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logoColor=C53635" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C53635" />
 
 <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 
