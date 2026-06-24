@@ -104,8 +104,13 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🧠 **[Vextor AI](https://github.com/agha-naveed)** | AI-assisted IDE with local inference & multi-language support. **Built 100% from scratch**. | `React` `Electron` `Rust` `Go` |
-| 🏔️ **[Smart Tourist Safety](https://github.com/agha-naveed)** | Offline rescue & tracking system for Gilgit-Baltistan. | `Java` `FlaskAPI` |
 | 🌐 **[EchoUp](https://github.com/agha-naveed)** | Scalable social media platform featuring seamless AI integrations and resilient data architectures. | `Next.js` `PostgreSQL` `Drizzle ORM` `Redis` `Cloudinary`|
+
+---
+
+## Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=compact)
 
 ---
 
