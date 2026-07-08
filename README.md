@@ -74,15 +74,7 @@ philosophy:
 | Project          | Description                                                                                                | Stack                                                     |
 | ---------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 🧠 **Vextor AI** | AI-assisted IDE with local inference, intelligent tooling, and multi-language support. Built from scratch. | `React` `Electron` `Rust` `Go`                            |
-| 🌐 **EchoUp**    | Scalable social media platform with AI integrations and resilient backend architecture.                    | `Next.js` `PostgreSQL` `Drizzle ORM` `Redis` `Cloudinary` |
-
----
-
-# 📊 Languages Used
-
-<p align="center">
-  <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agha-naveed&layout=donut&theme=tokyonight&hide_border=true&langs_count=20" />
-</p>
+| 🌐 **EchoUp**    | Scalable social media platform with AI integrations and resilient backend architecture.                    | `Next.js` `Supabase` `FastAPI` `Redis` `Cloudinary` `PyTorch` |
 
 ---
 
