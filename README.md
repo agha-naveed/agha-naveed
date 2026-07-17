@@ -58,39 +58,15 @@ const aghaNaveed = {
 
 # 🚀 Tech Stack
 
-## Frontend
+## Tech Stacks
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,python,docker,electron,git,postman,vercel,supabase" />
 </p>
 
-## Backend
+### Additional Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-## Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-## Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
-
-## DevOps & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,electron,git,postman,vercel,supabase" />
-</p>
-
-## Additional Technologies
-
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
 
