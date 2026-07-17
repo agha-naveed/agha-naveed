@@ -1,119 +1,231 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Agha%20Naveed&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20•%20AI%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=55" />
+# Hi,<img src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" width="45px" />I'm Agha Naveed
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%24+whoami;Agha+Naveed;Building+AI-powered+products;Scaling+modern+web+applications;Next.js+•+TypeScript+•+Python;Exploring+LLMs+and+Deep+Learning+🚀" />
+### Full-Stack Engineer • AI Engineer • Building Developer Tools
 
-<br/>
+Building scalable web applications, AI-powered software, and developer tools with a focus on performance, clean architecture, and exceptional developer experience.
+
+<br>
+
+<a href="https://aghanaveed.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/agha-naveed">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/agha-naveed/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/naveed_kazmi31">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
-
-<a href="https://aghanaveed.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-</a>
-
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 About Me
 
-```yaml
-name: Agha Naveed
-role: Full-Stack Engineer
+```ts
+const aghaNaveed = {
+    role: "Full-Stack Engineer",
 
-specializations:
-  - Scalable Web Applications
-  - Artificial Intelligence
-  - Developer Tools
+    location: "Pakistan",
 
-currently_learning:
-  - Deep Learning
-  - LLM Systems
-  - AI Agents
+    interests: [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Backend Architecture",
+        "Distributed Systems"
+    ],
 
-philosophy:
-  Build → Learn → Improve → Repeat
+    currentlyLearning: [
+        "LLMs",
+        "Deep Learning",
+        "AI Agents"
+    ],
+
+    philosophy:
+        "Build software that solves real problems."
+}
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,java,python,cpp,electron,git,postman,vercel,supabase" />
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<p align="center">
+## Backend
 
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-<img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C53635" />
+## Databases
 
-<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-<img src="https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5" />
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
+
+## DevOps & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,electron,git,postman,vercel,supabase" />
+</p>
+
+## Additional Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Drizzle_ORM-C53635?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Engineering
+# 📌 Featured Projects
 
-| Project          | Description                                                                                                | Stack                                                     |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🧠 **Vextor AI** | AI-assisted IDE with local inference, intelligent tooling, and multi-language support. Built from scratch. | `React` `Electron` `Rust` `Go`                            |
-| 🌐 **EchoUp**    | Scalable social media platform with AI integrations and resilient backend architecture.                    | `Next.js` `Supabase` `FastAPI` `Redis` `Cloudinary` `PyTorch` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 Vextor IDE
+
+AI-powered desktop IDE designed for developer productivity.
+
+### Highlights
+
+- Local AI inference
+- Code visualization
+- Multi-language support
+- Intelligent developer tools
+- Built from scratch
+
+### Stack
+
+`Electron`
+`React`
+`Rust`
+`Go`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 EchoUp
+
+Modern AI-powered social platform.
+
+### Highlights
+
+- AI-powered features
+- Authentication
+- Realtime architecture
+- Cloud-native backend
+- Media management
+
+### Stack
+
+`Next.js`
+`FastAPI`
+`Redis`
+`Cloudinary`
+`PyTorch`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agha-naveed&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agha-naveed&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=agha-naveed&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=agha-naveed&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📡 Connect
+# 🎯 Current Focus
+
+- 🧠 Building **Vextor IDE**
+- 🤖 Learning **LLMs & AI Agents**
+- ⚡ Backend Performance Optimization
+- 🌍 Open Source Contributions
+
+---
+
+# ⚡ Engineering Interests
+
+| Area | Focus |
+|------|------|
+| 🤖 AI | LLMs • Deep Learning • AI Agents |
+| 🌐 Web | Next.js • React • TypeScript |
+| ⚙ Backend | Node.js • FastAPI • Redis |
+| 🖥 Desktop | Electron • Native Performance |
+| 🗄 Database | PostgreSQL • MongoDB • MySQL |
+
+---
+
+# 📫 Connect
 
 <div align="center">
 
 <a href="mailto:naveedabs31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
-<a href="https://aghanaveed.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/agha-naveed">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/agha-naveed/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/naveed_kazmi31">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://aghanaveed.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<div>
+<div align="center">
 
-```json
-{
-  "status": "Open to collaborations",
-  "interests": ["AI", "Full-Stack Engineering", "Developer Tools"],
-  "location": "Pakistan"
-}
-```
+### ⭐ *Building software that developers love to use.*
 
 </div>
