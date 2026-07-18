@@ -30,6 +30,12 @@ Building scalable web applications, AI-powered software, and developer tools wit
 
 # 💻 About Me
 
+A good place to add this is in the About Me section by extending your aghaNaveed object, and then add a dedicated Teaching & Mentorship section before Featured Projects.
+
+Here's what I'd add:
+
+# 💻 About Me
+
 ```ts
 const aghaNaveed = {
     role: "Full-Stack Engineer",
@@ -48,6 +54,23 @@ const aghaNaveed = {
         "Deep Learning",
         "AI Agents"
     ],
+
+    teaching: {
+        role: "Web Development Instructor",
+        courses: [
+            "MERN Stack",
+            "Next.js"
+        ]
+    },
+
+    mentorship: {
+        role: "FYP Project Mentor",
+        domains: [
+            "MERN Stack",
+            "Mobile App Development",
+            "Artificial Intelligence"
+        ]
+    },
 
     philosophy:
         "Build software that solves real problems."
@@ -77,6 +100,33 @@ const aghaNaveed = {
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 
 </p>
+
+---
+
+# 🎓 Teaching & Mentorship
+
+## 👨‍🏫 Web Development Instructor
+
+- Teaching **MERN Stack** development
+- Teaching **Next.js** and modern React ecosystem
+- Helping students build production-ready full-stack applications
+- Guiding best practices in software engineering
+
+## 🎯 FYP Project Mentor
+
+Mentoring undergraduate Final Year Projects in:
+
+- 🌐 MERN Stack Applications
+- 📱 Mobile App Development
+- 🤖 Artificial Intelligence
+
+Providing guidance on:
+
+- System Design & Architecture
+- Database Design
+- API Development
+- AI Integration
+- Deployment & Production Practices
 
 ---
 
