@@ -87,15 +87,13 @@ const aghaNaveed = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,python,docker,electron,git,postman,vercel,supabase" />
 </p>
 
-### Additional Technologies
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/Drizzle_ORM-C53635?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-C53635?style=for-the-badge&logo=sqlalchemy"/>
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=drizzle"/>
 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 
