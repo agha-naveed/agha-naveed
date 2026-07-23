@@ -84,7 +84,7 @@ const aghaNaveed = {
 ## Tech Stacks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,python,docker,electron,git,postman,vercel,supabase,neon" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,python,docker,electron,git,postman,vercel,supabase" />
 </p>
 
 <p align="center">
